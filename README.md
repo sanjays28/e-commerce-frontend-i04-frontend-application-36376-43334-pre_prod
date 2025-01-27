@@ -1,1 +1,3 @@
-# e-commerce-frontend-i04-frontend-application-36376-43334-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
